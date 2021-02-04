@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+}
+#welcome {
+    background: linear-gradient(#038cfc,aquamarine);
+    z-index: 9;
+}
+.menu {
+    list-style: none;
+    font-family: cursive;
+    position: absolute;   
+    right: 30px;
+}
+.link {
+    float: left;
+    color: honeydew;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 15px;
+}
+.line {
+    background-color: black;
+    height: 10px;
+    width: 50px;
+    margin-left: 4px;
+}
